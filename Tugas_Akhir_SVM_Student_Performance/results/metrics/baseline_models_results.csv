@@ -1,0 +1,4 @@
+Model,Train_Accuracy,Test_Accuracy,Precision,Recall,F1_Score,Train_Time,Pred_Time,Accuracy,F1-Score
+K-Nearest Neighbors (KNN),1.0,0.81,0.8229,0.81,0.8068,0.0006,0.0056,,
+Random Forest,,,0.2576,0.2759,,,,0.2759,0.2192
+Artificial Neural Network (ANN),0.835,0.76,0.776,0.76,0.7536,0.0536,0.0006,,
