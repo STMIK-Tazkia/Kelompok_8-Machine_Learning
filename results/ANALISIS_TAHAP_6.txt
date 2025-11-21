@@ -1,0 +1,20 @@
+
+# LAPORAN ANALISIS & INTERPRETASI (TAHAP 6)
+
+1. MODEL TERBAIK
+   Model: K-Nearest Neighbors (KNN)
+   Akurasi: 81.0%
+   Gap dengan Runner-up: 5.00%
+
+2. MENGAPA LEBIH BAIK/BURUK?
+   Gap dengan baseline: -49.97%
+   Status: Baseline Unggul
+
+3. KELAS SULIT & MUDAH
+   Sulit: N/A (Cek Cell 4) (F1: 0.00)
+   Mudah: N/A (Cek Cell 4) (F1: 0.00)
+
+4. TRADE-OFF
+   Rata-rata Precision: 0.00
+   Rata-rata Recall: 0.00
+   Karakter Model: N/A (Cek Cell 5)
