@@ -1,0 +1,9 @@
+Aspect,MLP Baseline,MLP Optimized,SVM
+Test Accuracy,0.1034,0.1379,0.3103
+Test Precision,0.0367,0.0622,0.1942
+Test Recall,0.1034,0.1379,0.3103
+Test F1-Score,0.0532,0.0833,0.2000
+CV Mean Accuracy,0.0828,0.2276,0.2207
+CV Std (Stability),0.0468,0.0414,0.0468
+Training Time,0.50s,120.00s,0.20s
+Model Complexity,Medium,Medium-High,Medium

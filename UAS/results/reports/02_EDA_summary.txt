@@ -1,0 +1,46 @@
+================================================================================
+============================ EDA SUMMARY - TAHAP 2 =============================
+================================================================================
+
+Kelompok 8: Rahma Fitria Tunnisa & Rahmawati
+Dataset: Higher Education Students Performance Evaluation
+
+1. DISTRIBUSI TARGET
+--------------------------------------------------------------------------------
+Target column: GRADE
+Number of classes: 8
+Classes: 0, 1, 2, 3, 4, 5, 6, 7
+Imbalance ratio: 4.38:1
+
+Distribution:
+  0: 8 (5.52%)
+  1: 35 (24.14%)
+  2: 24 (16.55%)
+  3: 21 (14.48%)
+  4: 10 (6.90%)
+  5: 17 (11.72%)
+  6: 13 (8.97%)
+  7: 17 (11.72%)
+
+2. FITUR NUMERIK
+--------------------------------------------------------------------------------
+Total: 32 kolom
+Kolom: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, COURSE ID, GRADE
+
+
+3. FITUR KATEGORIK
+--------------------------------------------------------------------------------
+Total: 1 kolom
+Kolom: STUDENT ID
+
+4. OUTLIERS
+--------------------------------------------------------------------------------
+Total outliers: 337
+
+5. VISUALISASI YANG DIHASILKAN
+--------------------------------------------------------------------------------
+  • results/figures/01_distribusi_kelas.png
+  • results/figures/02_distribusi_numerik.png
+  • results/figures/03_correlation_matrix.png
+  • results/figures/04_distribusi_kategorik.png
+  • results/figures/05_numerik_vs_grade.png
