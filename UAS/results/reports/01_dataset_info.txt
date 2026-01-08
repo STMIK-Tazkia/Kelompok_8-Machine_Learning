@@ -2,7 +2,7 @@
 ========================= INFORMASI DATASET - TAHAP 1 ==========================
 ================================================================================
 
-File source: data/raw/DATA (1).csv
+File source: ../data/raw/DATA (1).csv
 Encoding: utf-8
 Jumlah baris: 145
 Jumlah kolom: 33

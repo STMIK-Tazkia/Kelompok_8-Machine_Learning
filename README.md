@@ -24,11 +24,9 @@ Model MLP yang diusulkan dibandingkan dengan **Support Vector Machine (SVM)** se
 |    │
 |    ├── 📁 results/
 |    │   ├── figures/
-|    │   └── metrics/
+|    │   ├── reports/
+|    │   └── tabels/
 |    │
-|    ├── 📁 reports/
-|    │
-|    ├── 📁 scripts/
 |    ├── Proposal Kelompok 8 -deeplerning.dox
 |    ├── Peper Higher Education Students Performance Evaluation.pdf
 |    ├── requirements.txt
