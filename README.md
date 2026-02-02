@@ -1,4 +1,10 @@
 # Analisis Komparatif Kinerja Klasifikasi Support Vector Machine (SVM) dan Model Baseline pada Prediksi Nilai Akhir Mahasiswa Perguruan Tinggi
+
+## Link Video UAS 
+```
+https://drive.google.com/drive/folders/1lxzupN6Q-qqmpgbL44robMy9LGK1D0uz
+```
+
 ## Pendahuluan
 Kinerja akademik mahasiswa merupakan indikator vital bagi keberhasilan institusi pendidikan tinggi. Dengan volume data akademik, demografi, dan kebiasaan belajar yang terus meningkat, bidang Educational Data Mining (EDM) menawarkan peluang besar untuk memprediksi hasil akhir mahasiswa. Prediksi yang akurat memungkinkan pengembangan Sistem Peringatan Dini (Early Warning System), yang memungkinkan dosen dan penasihat akademik memberikan intervensi tepat waktu kepada mahasiswa yang berisiko.
 
